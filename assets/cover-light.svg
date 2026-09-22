@@ -8,7 +8,7 @@
 <text x="70" y="280" font-size="21" font-weight="500" letter-spacing="4" fill="#626268">UI COPY</text>
 <text x="70" y="335" font-size="21" fill="#626268">Words that make the next step clear.</text>
 <text x="70" y="463" font-size="13" fill="#626268">By Mustundead</text>
-<text x="1212" y="463" text-anchor="end" font-size="13" fill="#626268">v1.0.0 · MIT</text>
+<text x="1212" y="463" text-anchor="end" font-size="13" fill="#626268">v1.0.1 · MIT</text>
 <rect x="740" y="138" width="404" height="256" rx="25" fill="#ffffff" stroke="#d9d9df"/>
 <circle cx="770" cy="166" r="4" fill="#d9d9df"/><circle cx="785" cy="166" r="4" fill="#d9d9df"/><circle cx="800" cy="166" r="4" fill="#d9d9df"/>
 <text x="772" y="213" font-size="13" fill="#626268">SOURCE A</text><circle cx="777" cy="248" r="4" fill="#9a7840"/>

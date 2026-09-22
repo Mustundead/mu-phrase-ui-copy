@@ -15,7 +15,7 @@ Use it to write, review, or implement controls, state messages, permissions, pur
 
 ## Install and invoke
 
-Download the [v1.0.0 release](https://github.com/Mustundead/mu-phrase-ui-copy/releases/tag/v1.0.0) or clone this repository. Place its complete folder in the skill directory configured for your assistant. The MU LABS local Codex workflow uses `~/.codex/skills/mu-phrase-ui-copy`; use your host’s documented discovery path elsewhere. Do not overwrite an existing installation without comparing or backing it up.
+Download the [v1.0.1 release](https://github.com/Mustundead/mu-phrase-ui-copy/releases/tag/v1.0.1) or clone this repository. Place its complete folder in the skill directory configured for your assistant. The MU LABS local Codex workflow uses `~/.codex/skills/mu-phrase-ui-copy`; use your host’s documented discovery path elsewhere. Do not overwrite an existing installation without comparing or backing it up.
 
 Invoke `$mu-phrase-ui-copy` in a new session with the target, available evidence, and requested scope. Read [usage](docs/usage.md) for review versus implementation, updates, and limitations. No account, API key, runtime dependency, or background service is included in this package.
 

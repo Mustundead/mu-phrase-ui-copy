@@ -7,7 +7,7 @@
 
 **界面文案 · 每一句，都让下一步更清楚。**
 
-[下载 v1.0.0](https://github.com/Mustundead/mu-phrase-ui-copy/releases/tag/v1.0.0) · [English](README.en.md) · [使用文档](docs/usage.md) · [完整技能](SKILL.md) · [MU LABS](https://mustundead.com/#work)
+[下载 v1.0.1](https://github.com/Mustundead/mu-phrase-ui-copy/releases/tag/v1.0.1) · [English](README.en.md) · [使用文档](docs/usage.md) · [完整技能](SKILL.md) · [MU LABS](https://mustundead.com/#work)
 
 由 [Mustundead](https://github.com/Mustundead) 编写的个人 Agent Skill，把 MU LABS 的产品判断整理成可反复使用的工作方法。支持以 `SKILL.md` 为入口的助手工作流；技能指令以中文编写，可以处理约定范围内的中英文产品内容。
 
@@ -42,7 +42,7 @@ Phrase 是措辞与表达。它关心一句话在什么场景出现、说明什�
 
 ## 开始使用
 
-1. 下载 [v1.0.0](https://github.com/Mustundead/mu-phrase-ui-copy/releases/tag/v1.0.0) 或克隆本仓库。
+1. 下载 [v1.0.1](https://github.com/Mustundead/mu-phrase-ui-copy/releases/tag/v1.0.1) 或克隆本仓库。
 2. 将包含 `SKILL.md`、`references/`、`agents/` 和 `assets/` 的 `mu-phrase-ui-copy` 文件夹放进助手已配置的技能目录。MU LABS 的本地 Codex 工作流使用 `~/.codex/skills/`；其他环境按其技能发现设置选择目录。
 3. 在新的会话中调用 `$mu-phrase-ui-copy`，并说明目标、材料和工作范围。
 
