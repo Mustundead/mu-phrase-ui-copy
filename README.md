@@ -3,6 +3,8 @@
   <img src="assets/cover-light.svg" alt="MU Phrase · UI COPY — Words that make the next step clear." width="100%">
 </picture>
 
+<img src="assets/icon.png" alt="MU Phrase" width="112" height="112">
+
 # MU Phrase · UI 文案
 
 **界面文案 · 每一句，都让下一步更清楚。**
@@ -51,6 +53,22 @@ Phrase 是措辞与表达。它关心一句话在什么场景出现、说明什�
 ```text
 使用 $mu-phrase-ui-copy。检查这张连接卡片的中英文文案。一个来源刷新失败但保留了旧值，另一个来源正常。先评审，不修改代码。
 ```
+
+## 从一个具体任务开始
+
+**先看哪里需要改。**
+
+```text
+使用 $mu-phrase-ui-copy。检查当前页面的按钮、空状态和错误提示，给出问题、建议文案与理由。先评审，不改代码。
+```
+
+**直接完成修改。**
+
+```text
+使用 $mu-phrase-ui-copy。在当前项目中修改这个页面的中英文文案，保留变量和实际行为，检查相关语言资源与运行界面。
+```
+
+评审交付问题与建议；实现交付修改和验证结果。附上页面、截图或项目位置，就能让任务更具体。
 
 ## 内容结构
 

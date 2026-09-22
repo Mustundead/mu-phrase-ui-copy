@@ -3,6 +3,8 @@
   <img src="assets/cover-light.svg" alt="MU Phrase · UI COPY — Words that make the next step clear." width="100%">
 </picture>
 
+<img src="assets/icon.png" alt="MU Phrase" width="112" height="112">
+
 # MU Phrase · UI Copy
 
 **Interface writing that makes the next step clear.**
@@ -18,6 +20,22 @@ Use it to write, review, or implement controls, state messages, permissions, pur
 Download the [v1.0.1 release](https://github.com/Mustundead/mu-phrase-ui-copy/releases/tag/v1.0.1) or clone this repository. Place its complete folder in the skill directory configured for your assistant. The MU LABS local Codex workflow uses `~/.codex/skills/mu-phrase-ui-copy`; use your host’s documented discovery path elsewhere. Do not overwrite an existing installation without comparing or backing it up.
 
 Invoke `$mu-phrase-ui-copy` in a new session with the target, available evidence, and requested scope. Read [usage](docs/usage.md) for review versus implementation, updates, and limitations. No account, API key, runtime dependency, or background service is included in this package.
+
+## Start with one task
+
+**Review a page.**
+
+```text
+Use $mu-phrase-ui-copy. Review the buttons, empty states, and errors on this page. Explain each issue and suggest replacement copy. Do not edit code.
+```
+
+**Make the change.**
+
+```text
+Use $mu-phrase-ui-copy. Implement the Chinese and English copy changes for this page. Preserve placeholders and behavior, then check the affected resources and running interface.
+```
+
+Include the page, screenshot, or project location. A review delivers findings and recommendations; implementation delivers changes and verification results.
 
 ## License and sources
 
