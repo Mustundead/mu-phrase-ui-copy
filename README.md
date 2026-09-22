@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.svg">
-  <img src="assets/cover-light.svg" alt="MU Phrase · UI COPY — Words that make the next step clear." width="100%">
+  <img src="assets/cover-light.svg" alt="MU LABS Phrase · UI COPY — Words that make the next step clear." width="100%">
 </picture>
 
-<img src="assets/icon.png" alt="MU Phrase" width="112" height="112">
+<img src="assets/icon.png" alt="MU LABS Phrase" width="112" height="112">
 
-# MU Phrase · UI 文案
+# MU LABS Phrase · UI 文案
 
 **界面文案 · 每一句，都让下一步更清楚。**
 
@@ -13,7 +13,7 @@
 
 由 [Mustundead](https://github.com/Mustundead) 编写的个人 Agent Skill，把 MU LABS 的产品判断整理成可反复使用的工作方法。支持以 `SKILL.md` 为入口的助手工作流；技能指令以中文编写，可以处理约定范围内的中英文产品内容。
 
-## 为什么叫 MU Phrase
+## 为什么叫 MU LABS Phrase
 
 Phrase 是措辞与表达。它关心一句话在什么场景出现、说明什么事实，以及如何帮助人作出选择。 MU 是 MU LABS 的共同署名，功能由副标题说明。
 
@@ -27,7 +27,7 @@ Phrase 是措辞与表达。它关心一句话在什么场景出现、说明什�
 
 ## 一句话，也有完整的上下文
 
-| 看见的情况 | MU Phrase 关注的判断 |
+| 看见的情况 | MU LABS Phrase 关注的判断 |
 | --- | --- |
 | 按钮让人犹豫 | 动词是否准确，选择之后会发生什么 |
 | 数值没更新 | 保留上次读数和时间，区分未知与零 |
@@ -83,4 +83,4 @@ Phrase 是措辞与表达。它关心一句话在什么场景出现、说明什�
 
 本仓库新写的技能、文档和示例以 [MIT](LICENSE) 开源，可使用、修改和再分发，需保留许可证声明。链接的外部资料仍遵循各自条款。产品和平台名称用于说明语境，不表示官方关联或背书。
 
-问题或改进建议请附具体场景、实际行为和期望结果；见[贡献说明](CONTRIBUTING.md)。与另一项 [MU Poise](https://github.com/Mustundead/mu-poise-ui-design) 可共同使用，但共享的检查只做一次。
+问题或改进建议请附具体场景、实际行为和期望结果；见[贡献说明](CONTRIBUTING.md)。与另一项 [MU LABS Poise](https://github.com/Mustundead/mu-poise-ui-design) 可共同使用，但共享的检查只做一次。

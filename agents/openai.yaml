@@ -1,5 +1,5 @@
 interface:
-  display_name: "MU Phrase · UI 文案"
+  display_name: "MU LABS Phrase · UI 文案"
   icon_small: "./assets/icon.png"
   icon_large: "./assets/icon.png"
   short_description: "Write clear, truthful interface copy in Chinese and English"

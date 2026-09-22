@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.svg">
-  <img src="assets/cover-light.svg" alt="MU Phrase · UI COPY — Words that make the next step clear." width="100%">
+  <img src="assets/cover-light.svg" alt="MU LABS Phrase · UI COPY — Words that make the next step clear." width="100%">
 </picture>
 
-<img src="assets/icon.png" alt="MU Phrase" width="112" height="112">
+<img src="assets/icon.png" alt="MU LABS Phrase" width="112" height="112">
 
-# MU Phrase · UI Copy
+# MU LABS Phrase · UI Copy
 
 **Interface writing that makes the next step clear.**
 

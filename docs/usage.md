@@ -1,4 +1,4 @@
-# MU Phrase · UI 文案使用文档
+# MU LABS Phrase · UI 文案使用文档
 
 ## 安装
 
@@ -43,7 +43,7 @@ git clone https://github.com/Mustundead/mu-phrase-ui-copy.git ~/.codex/skills/mu
 
 ## 与其他技能协作
 
-可以与 MU Poise 同时使用。让一个负责主要交付，另一个处理必要的文案或交互部分；共享的上下文、构建和运行验收复用一次。不要求必须安装另一项技能。
+可以与 MU LABS Poise 同时使用。让一个负责主要交付，另一个处理必要的文案或交互部分；共享的上下文、构建和运行验收复用一次。不要求必须安装另一项技能。
 
 ## 更新、迁移与移除
 

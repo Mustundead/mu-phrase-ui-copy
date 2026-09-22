@@ -2,7 +2,7 @@
 
 2026-09-22 · MU LABS
 
-Created and revised with the built-in imagegen tool. The selected design is a dark graphite rounded square with silver-grey and cobalt accents. MU Phrase uses the exact letters Mu; MU Poise uses overlapping interface panels. Both have a continuous outer surface without a folded corner.
+Created and revised with the built-in imagegen tool. The selected design is a dark graphite rounded square with silver-grey and cobalt accents. MU LABS Phrase uses the exact letters Mu; MU LABS Poise uses overlapping interface panels. Both have a continuous outer surface without a folded corner.
 
 The PNG has a transparent exterior and is used by the skill metadata. The website uses a WebP encoding of this artwork. Earlier light, Aa, and folded-corner variants were rejected and are not distributed here.
 

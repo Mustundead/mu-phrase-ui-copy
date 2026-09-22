@@ -3,7 +3,7 @@ name: mu-phrase-ui-copy
 description: 为产品界面编写、评审和落地清晰可信的中英文文案。适用于按钮、空状态、错误、权限、订阅、数据状态、本地化资源和无障碍文本；不用于营销文章或与文案无关的代码审查。
 ---
 
-# MU Phrase · UI 文案
+# MU LABS Phrase · UI 文案
 
 MU LABS / Mustundead
 
