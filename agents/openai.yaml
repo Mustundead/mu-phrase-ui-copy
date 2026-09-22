@@ -1,0 +1,6 @@
+interface:
+  display_name: "MU Phrase · UI 文案"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  short_description: "Write clear, truthful interface copy in Chinese and English"
+  default_prompt: "请使用 $mu-phrase-ui-copy，检查这张连接卡片的中英文文案。一个来源刷新失败但保留了旧值，另一个来源正常。先评审，不修改代码。"
