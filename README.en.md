@@ -15,6 +15,8 @@ A personal agent skill by [Mustundead](https://github.com/Mustundead), built aro
 
 Use it to write, review, or implement controls, state messages, permissions, purchase copy, localization, and accessible text. It preserves the difference between missing and zero, stale and current, pending and complete.
 
+**Unreleased source update:** This repository adds guidance for deciding what must stay near an action, what can move to help, and when clear copy should remain unchanged. See the [skill](SKILL.md) and [examples](references/examples.md). The v1.0.1 link below still points to the published release.
+
 ## Install and invoke
 
 Download the [v1.0.1 release](https://github.com/Mustundead/mu-phrase-ui-copy/releases/tag/v1.0.1) or clone this repository. Place its complete folder in the skill directory configured for your assistant. The MU LABS local Codex workflow uses `~/.codex/skills/mu-phrase-ui-copy`; use your host’s documented discovery path elsewhere. Do not overwrite an existing installation without comparing or backing it up.
